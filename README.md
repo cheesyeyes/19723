@@ -1,4 +1,4 @@
 19723, lights.
 
-npm install
+npm install,
 npm start
