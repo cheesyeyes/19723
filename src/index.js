@@ -110,6 +110,8 @@ function animate() {
     light5.intensity = Math.sin(CLOCK.getElapsedTime()+.1)*10
     light6.intensity = Math.sin(CLOCK.getElapsedTime()-9)*10
 
+//test
+
 
     renderer.render( scene, camera );
 }
